@@ -1,7 +1,7 @@
 function Hero() {
     return (
-        <div>
-            test
+        <div className="flex">
+            
         </div>
     )
 }
