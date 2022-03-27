@@ -3,7 +3,10 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'heading': ['Montserrat', 'sans-serif'],
+      'main': ['League Spartan', 'sans-serif']
+      },
   },
   plugins: [],
 }
