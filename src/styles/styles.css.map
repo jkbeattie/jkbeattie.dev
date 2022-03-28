@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK",
-"sources": ["sections/_hero.sass"],
+"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;;ACHhB,SAAS;EACL,OAAO,EAAE,MAAM",
+"sources": ["sections/_hero.sass","sections/_navbar.sass"],
 "names": [],
 "file": "styles.css"
 }

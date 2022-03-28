@@ -1,11 +1,12 @@
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom'
 
 function Navbar() {
     return (
-        <div className='navbar flex flew-row place-content-center'>
-            <div className="links">
-                <Link to="/" className='nav-link'>Home</Link>
-                <Link to="/contact">Contact</Link>
+        <div className='navbar mt-5 flex flew-row place-content-center'>
+            <div className='links font-main font-light text-base'>
+                <Link to='/' className='nav-link font-bold'>Home</Link>
+                <Link to='/about' className='nav-link'>About</Link>
+                <Link to='/contact' className='nav-link'>Contact</Link>
             </div>
         </div>
     )
