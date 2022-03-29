@@ -5,6 +5,8 @@
 
 .nav-link {
   padding: 0 25px; }
+  .nav-link:hover {
+    @apply bg-slate-100 py-2 rounded-2xl; }
 
 @tailwind base;
 @tailwind components;
