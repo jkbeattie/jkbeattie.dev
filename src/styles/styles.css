@@ -9,8 +9,14 @@
 
 .nav-link {
   padding: 0 25px; }
+  .nav-link.active {
+    @apply font-bold underline underline-offset-4 decoration-2 decoration-blue-600; }
   .nav-link:hover {
     @apply bg-slate-100 py-2 rounded-2xl; }
+
+.nav-link-active {
+  padding: 0 25px;
+  @apply font-bold underline underline-offset-4 decoration-4 decoration-blue-600; }
 
 @tailwind base;
 @tailwind components;
