@@ -11,8 +11,6 @@ function Hero() {
                 wrapper='span'
                 className='inline-block'
             /></h1>
-            
-
         </div>
     )
 }
