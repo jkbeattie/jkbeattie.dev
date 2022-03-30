@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;;ACHhB,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,eAAO",
-"sources": ["sections/_hero.sass","sections/_navbar.sass"],
+"mappings": "AAAA,IAAI;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM;;ACFlB,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;;ACHf,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,eAAO",
+"sources": ["layouts/_wrapper.sass","sections/_hero.sass","sections/_navbar.sass"],
 "names": [],
 "file": "styles.css"
 }
