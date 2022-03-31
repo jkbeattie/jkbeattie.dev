@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;;ACHf,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,gBAAQ;;EAGR,eAAO;;;AAGX,gBAAgB;EACZ,OAAO,EAAE,MAAM;;;ACVnB,IAAI;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM",
-"sources": ["components/_hero.sass","components/_navbar.sass","layouts/_wrapper.sass"],
+"mappings": "AAAA,OAAO;EACH,SAAS,EAAE,IAAI;;ACDnB,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;;ACHf,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,gBAAQ;;EAGR,eAAO;;;AAGX,gBAAgB;EACZ,OAAO,EAAE,MAAM;;;ACVnB,IAAI;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM",
+"sources": ["components/_avatar.sass","components/_hero.sass","components/_navbar.sass","layouts/_wrapper.sass"],
 "names": [],
 "file": "styles.css"
 }
