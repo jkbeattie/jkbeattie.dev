@@ -11,6 +11,7 @@ function Navbar() {
                 <NavItem href='/' title='Home' />
                 <NavItem href='/about' title='About' />
                 <NavItem href='/contact' title='Contact' />
+                <NavItem href='/blog' title='Blog' />
             </div>
         </div>
     )
