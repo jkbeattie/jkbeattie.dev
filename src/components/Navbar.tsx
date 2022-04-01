@@ -7,7 +7,7 @@ function Navbar() {
             <div className='avatar'>
                 <img src={Avatar} alt="jkbeattie.dev" />
             </div>
-            <div className='links font-main font-light text-base'>
+            <div className='links font-main font-light text-lg'>
                 <NavItem href='/' title='Home' />
                 <NavItem href='/about' title='About' />
                 <NavItem href='/contact' title='Contact' />
