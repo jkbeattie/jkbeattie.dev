@@ -1,6 +1,8 @@
 import Typical from 'react-typical'
 import data from '../data/siteData'
 
+import { Button } from './Button';
+
 function Hero() {
     return (
         <div className="hero flex flex-col place-content-center">
@@ -13,6 +15,11 @@ function Hero() {
                 className='inline-block'
                 />
             </h1>
+            <div className='flex gap-6'>
+                <Button buttonType='primary'>Learn More</Button>
+                <Button buttonType='secondary'>Contact Me</Button>
+            </div>
+            
         </div>
     )
 }
