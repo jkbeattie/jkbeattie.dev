@@ -6,12 +6,12 @@ const siteData = {
     siteRepo: 'https://github.com/jkbeattie/jkbeattie.dev',
     email: 'hello@jkbeattie.dev',
     typical: [
-        'Full-Stack Software Engineer.',
-        5000,
-        'Solutions Architect.',
-        5000,
-        'Systems Analyst.',
-        5000
+        "I'm a Full-Stack Software Engineer.",
+        3000,
+        "I specialise in web applications.",
+        3000,
+        "I'm here to help you!",
+        3000
     ]
 }
 
