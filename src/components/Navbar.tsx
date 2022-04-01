@@ -1,12 +1,17 @@
-import { Link } from 'react-router-dom'
+import NavItem from './NavItem'
+import Avatar from '../static/avatar.png'
 
 function Navbar() {
     return (
-        <div className='navbar mt-5 flex flew-row place-content-center'>
-            <div className='links font-main font-light text-base'>
-                <Link to='/' className='nav-link font-bold'>Home</Link>
-                <Link to='/about' className='nav-link'>About</Link>
-                <Link to='/contact' className='nav-link'>Contact</Link>
+        <div className='navbar mt-5 flex flew-row justify-between items-center'>
+            <div className='avatar'>
+                <img src={Avatar} alt="jkbeattie.dev" />
+            </div>
+            <div className='links font-main font-light text-lg'>
+                <NavItem href='/' title='Home' />
+                <NavItem href='/about' title='About' />
+                <NavItem href='/contact' title='Contact' />
+                <NavItem href='/blog' title='Blog' />
             </div>
         </div>
     )

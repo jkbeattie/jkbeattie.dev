@@ -1,7 +1,1 @@
-{
-"version": 3,
-"mappings": "AAAA,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;;ACHhB,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,eAAO",
-"sources": ["sections/_hero.sass","sections/_navbar.sass"],
-"names": [],
-"file": "styles.css"
-}
+{"version":3,"sourceRoot":"","sources":["core/_fonts.sass","components/_avatar.sass","components/_hero.sass","components/_navbar.sass","layouts/_wrapper.sass","styles.sass"],"names":[],"mappings":"AAEQ;AACA;ACHR;EACI;;;ACDJ;EACI;EACA;EACA;;;ACHJ;EACI;;AAEA;EACI;;AAEJ;EACI;;;AAER;EACI;EACA;;;ACXJ;EACI;EACA;;;ACKJ;AACA;AACA","file":"styles.css"}
