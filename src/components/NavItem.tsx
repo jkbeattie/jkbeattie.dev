@@ -1,11 +1,11 @@
 import { NavLink } from 'react-router-dom'
 
-interface NavItem {
+type NavItemProps = {
     href: string,
     title: string
 }
 
-function NavItem(props:NavItem) {
+function NavItem(props:NavItemProps) {
     return (
         <NavLink
             to={(props.href)}

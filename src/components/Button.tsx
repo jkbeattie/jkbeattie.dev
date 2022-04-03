@@ -1,8 +1,8 @@
-type Props = {
+type ButtonProps = {
     buttonType: string
 }
 
-export const Button: React.FC<Props> = ({
+export const Button: React.FC<ButtonProps> = ({
     buttonType,
     children
 }) => {
