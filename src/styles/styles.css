@@ -29,7 +29,7 @@
     @apply bg-slate-100 py-3 rounded-3xl; }
 
 .App {
-  width: 85%;
+  width: 70%;
   margin: 0 auto; }
 
 @tailwind base;
