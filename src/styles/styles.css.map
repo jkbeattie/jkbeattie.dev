@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAEQ,wHAAgH;AAChH,4HAAoH;ACH5H,OAAO;;;ACAP,QAAQ;;;EAIJ,cAAO;;;AAGX,UAAU;;;EAIN,gBAAO;;;ACXX,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;;ACHf,SAAS;EACL,OAAO,EAAE,MAAM;EAEf,gBAAQ;;EAGR,eAAO;;;AAGX,gBAAgB;EACZ,OAAO,EAAE,MAAM;;;ACVnB,IAAI;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM",
+"mappings": "AAEQ,wHAAgH;AAChH,4HAAoH;ACH5H,OAAO;;;ACAP,QAAQ;;;EAIJ,cAAO;;;AAGX,UAAU;;;EAIN,gBAAO;;;ACXX,KAAK;EACD,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,IAAI;;ACHf,SAAS;EACL,OAAO,EAAE,MAAM;;EAGf,gBAAQ;;EAGR,eAAO;;;ACPX,IAAI;EACA,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,MAAM",
 "sources": ["core/_fonts.sass","components/_avatar.sass","components/_button.sass","components/_hero.sass","components/_navbar.sass","layouts/_wrapper.sass"],
 "names": [],
 "file": "styles.css"
