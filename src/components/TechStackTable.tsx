@@ -17,7 +17,7 @@ function TechStackTable() {
                     <li>Tailwind CSS</li>
                 </ul>
             </div>
-            <div className="tech-stack-column backend">
+            <div className="tech-stack-column bordered backend">
                 <FaCode className='tech-stack-icon' />
                 <p className='font-heading font-bold text-lg mt-5'>Back-End</p>
                 <p className="font-main font-thin text-lg text-center mx-2 my-3">I place a large emphasis on developing secure, robust, scalable and maintainable back-end infrastructure for your website or application.</p>
