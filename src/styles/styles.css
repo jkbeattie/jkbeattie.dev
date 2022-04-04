@@ -37,6 +37,17 @@
   @apply bg-slate-100 py-3 rounded-3xl;
 }
 
+.tech-stack {
+  min-height: 100vh;
+  height: 100vh;
+  width: 100%;
+}
+
+.tech-stack-column {
+  @apply flex flex-col items-center;
+  @apply border;
+}
+
 .App {
   width: 70%;
   margin: 0 auto;
