@@ -3,7 +3,7 @@ import Avatar from '../static/avatar.png'
 
 function Navbar() {
     return (
-        <div className='navbar mt-5 flex flew-row justify-between items-center'>
+        <div className='navbar mt-5 flex flew-row justify-between items-center wrapper'>
             <div className='avatar'>
                 <img src={Avatar} alt="jkbeattie.dev" />
             </div>
