@@ -20,6 +20,13 @@
   @apply ring-2 ring-offset-2 ring-slate-900 ring-offset-white;
 }
 
+.social-icon {
+  @apply w-6 h-6 text-gray-600 ml-5;
+}
+.social-icon:hover {
+  @apply text-blue-600;
+}
+
 .hero {
   min-height: 100vh;
   height: 100vh;
