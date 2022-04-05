@@ -1,13 +1,13 @@
 import Hero from '../components/Hero';
 import Navbar from '../components/Navbar';
-import TechStack from '../components/TechStack';
+import Technology from '../components/Technology';
 
 function Home() {
     return (
         <div>
             <Navbar />
             <Hero />
-            <TechStack />
+            <Technology />
         </div>
     )
 }
