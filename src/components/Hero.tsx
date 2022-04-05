@@ -5,7 +5,7 @@ import { Button } from './Button';
 
 function Hero() {
     return (
-        <div className="hero flex flex-col place-content-center wrapper">
+        <section className="hero flex flex-col place-content-center wrapper">
             <h1 className="text-5xl font-bold font-heading leading-tight">Hi, my name is <span className="text-blue-600">Jayden Beattie</span></h1>
             <h1 className="text-5xl font-bold font-heading leading-tight">
                 <Typical
@@ -19,8 +19,7 @@ function Hero() {
                 <Button buttonType='primary'>Learn More</Button>
                 <Button buttonType='secondary'>Contact Me</Button>
             </div>
-            
-        </div>
+        </section>
     )
 }
 

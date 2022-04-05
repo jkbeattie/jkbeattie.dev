@@ -44,7 +44,7 @@
 }
 
 .tech-stack-table {
-  @apply my-20 border border-gray-200 rounded-2xl shadow-md;
+  @apply border border-gray-200 rounded-2xl shadow-md;
 }
 
 .tech-stack-column {
