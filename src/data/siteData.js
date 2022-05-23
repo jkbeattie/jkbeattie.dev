@@ -10,7 +10,7 @@ const siteData = {
         3000,
         "I specialise in web applications.",
         3000,
-        "I'm here to help you!",
+        "Welcome to my portfolio!",
         3000
     ]
 }

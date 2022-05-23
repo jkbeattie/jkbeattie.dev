@@ -20,7 +20,7 @@ function TechnologyTable() {
             <div className="tech-stack-column bordered backend">
                 <FaCode className='tech-stack-icon' />
                 <p className='font-heading font-bold text-xl mt-5'>Back-End</p>
-                <p className="font-main font-light text-lg text-center mx-10 my-3">I place a large emphasis on developing secure, robust, scalable and maintainable back-end infrastructure for your website or application.</p>
+                <p className="font-main font-light text-lg text-center mx-10 my-3">I place a large emphasis on developing secure, scalable and maintainable back-end infrastructure for your website or application.</p>
                 <p className="font-main font-normal text-lg text-center text-blue-600 mt-8">Skilled in:</p>
                 <ul className="skills font-main font-light text-lg text-center">
                     <li>Python</li>
