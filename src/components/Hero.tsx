@@ -9,16 +9,14 @@ function Hero() {
             <h1 className="text-5xl font-bold font-heading leading-tight">Hi, my name is <span className="text-blue-600">Jayden Beattie</span></h1>
             <h1 className="text-5xl font-bold font-heading leading-tight">
                 <Typical
-                steps={data.typical}
+                steps={
+                    ['My portfolio is coming soon...', 3000, 'I am excited to share it with you!', 3000]
+                }
                 loop={Infinity}
                 wrapper='span'
                 className='inline-block'
                 />
             </h1>
-            <div className='flex gap-6'>
-                <Button buttonType='primary'>Learn More</Button>
-                <Button buttonType='secondary'>Contact Me</Button>
-            </div>
         </section>
     )
 }
