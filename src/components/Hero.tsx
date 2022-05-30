@@ -1,7 +1,4 @@
 import Typical from 'react-typical'
-import data from '../data/siteData'
-
-import { Button } from './Button';
 
 function Hero() {
     return (
